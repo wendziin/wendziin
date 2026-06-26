@@ -39,25 +39,6 @@ Sou um desenvolvedor focado em performance, integrações de rede e desenvolvime
 
 ---
 
-### 📂 Portfólio de Projetos
-
-#### 🎮 Emulação & Streaming de Baixa Latência
-*   **[ppsspp_streaming_booster](https://github.com/wendziin/ppsspp_streaming_booster)**: Modificações de rede em C++ na engine de I/O do emulador PPSSPP para suporte a *Keep-Alive* persistente, aumento de timeout e priorização de threads no Android. Acompanha um servidor proxy adaptativo de alta velocidade (V17 No-Concat) desenvolvido em Node.js.
-*   **[StreamVaultPluginManager](https://github.com/wendziin/StreamVaultPluginManager)**: Plugin de integração IPC com o player StreamVault-IPTV, contendo um proxy HTTP local com suporte a Range requests para transmissão fluida via Google Cast e Web Video Caster.
-*   **[SnesOn](https://github.com/wendziin/SnesOn)** & **[snes_streamtwk](https://github.com/wendziin/snes_streamtwk)**: Emulador web de Super Nintendo e tweaks de streaming em C/C++ para simulação rápida de frames e otimização de banda de rede.
-
-#### 📱 Utilidades Android & Modding
-*   **[BulletDroid](https://github.com/wendziin/BulletDroid)** & **[BulletDroid-Nexus](https://github.com/wendziin/BulletDroid-Nexus)**: Ferramenta mobile de validação de contas multithreaded com suporte a proxies, desenvolvida originalmente em Python/Kivy e reconstruída com interface moderna em Dart/Flutter.
-*   **[cnvz](https://github.com/wendziin/cnvz)** & **[XSCs3](https://github.com/wendziin/XSCs3)**: Repositórios dedicados a modding de aplicativos Android, manipulação de bytecode em código Smali e engenharia reversa.
-*   **[ATTInstaMod](https://github.com/wendziin/ATTInstaMod)**: Script utilitário em HTML/JS projetado para simplificar atualizações seguras de mods do Instagram sem redirecionamentos de anúncios.
-
-#### 🌐 Web Apps, Automação & Ferramentas
-*   **[vlt-sobral-web](https://github.com/wendziin/vlt-sobral-web)**: Web app responsivo que exibe de forma simples, direta e otimizada os horários de funcionamento do VLT de Sobral/CE.
-*   **[AteiaLib](https://github.com/wendziin/AteiaLib)** & **[GerarPlay](https://github.com/wendziin/GerarPlay)**: Scripts e utilitários em Node.js/Python focados no gerenciamento, catalogação e geração automatizada de banco de dados de mídias de vídeo e listas M3U.
-*   **[website-cloner](https://github.com/wendziin/website-cloner)**: Script inteligente em Python projetado para download completo e recursivo de páginas web (HTML, CSS, JS e mídias) estruturadas para navegação local offline.
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
