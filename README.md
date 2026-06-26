@@ -52,7 +52,7 @@ Sou um desenvolvedor focado em performance, integrações de rede e desenvolvime
 
 ---
 
-### 🐍 Meu Gráfico de Contribuições (Snake Game)
+
 
 <div align="center">
   <picture>
